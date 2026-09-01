@@ -31,7 +31,7 @@ sphinx:
     - jupyterbook_patches
     - download_link_replacer
     - sphinx.ext.extlinks
-    - custom-launch-buttons
+    - sphinx-launch-buttons
 
 bibtex_bibfiles: 
   - references.bib

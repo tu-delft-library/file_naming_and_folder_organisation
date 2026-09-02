@@ -1,3 +1,3 @@
 # Files-and-Folders Jupyter Book
 
-This repository is the pilot version of the files-and-folders book.
+This repository contains the text and images for the data literacy mini-module "File Naming and Folder Organisation."

@@ -1,6 +1,10 @@
-# Part 1 - Welcome to File Naming & Folder Organisation
+# Introduction 
 
-### 1a. Learning Objectives & Purpose:
+## Welcome! 
+
+This mini-module 
+
+### Learning Objectives & Purpose:
 
 This mini module is an opportunity for self-paced, independent learning in several core skills. During class, your instructors will expand upon the module topics and will show you how to apply the skills to much more complex problems in your field of study. The learning in this mini-module will equip you to do the following: 
 
@@ -14,7 +18,19 @@ This mini module is an opportunity for self-paced, independent learning in sever
 
 - Evaluate whether to store a file locally vs. remotely based on factors such as accessibility, security, and collaboration needs.
 
-### 1b. Pre-quiz:
+## Mini-module Format 
+
+This mini-course is online and self-paced. It’s “mini” because it will take you approximately an hour to an hour and a half to go through the materials. The practice exercises and quizzes in each section are designed to help you check your understanding of key vocabulary and concepts. The mini-module is open access, which means you can bookmark the URL in your browser and refer to the information as much as you like in the future. In addition to the online mini-module, we will also provide this [**Downloadable Checklist**](graphics/Checklist_v3.docx) that includes the guiding questions from the mini-module. At the end of each section we will ask you to revisit the checklist and record key details. 
+
+## Appreciations 
+
+This guide was developed by Paige Folsom from the Data Literacy Project, TU Delft Library Education Support in collaboration with Allyson Sim, Research Data & Software, Sophie Tschirpke, data steward at the Faculty of Applied Sciences, and Aurele Adam, coordinator of the MSc Applied Physics. Special thanks to the thesis supervisors of the MSc of Applied Physics for their input on learning goals and competencies. Thank you to Paula Martinez-Lavanchy for valuable input on the learning design as well as the content. Thank you to Reid Sczerba and Freek Pols for support building this Jupyter book, and to TU Delft Library Education Support colleagues for their feedback. 
+
+## How to Cite this Resource 
+
+> `Folsom, P., Sim, A., Tschirpke, S.` (`2026`) _`Planning for RDM`_. `<https://tu-delft-library.github.io/planning_for_rdm/main/intro.html>`. Source files at `<<https://github.com/tu-delft-library/planning_for_rdm>`. CC BY 4.0.
+
+### Pre-quiz:
 
 Before we begin, please take this short pre-quiz (5 questions). The purpose is to evaluate your background knowledge and see which concepts will be new vs. review for you.
 

@@ -4,11 +4,10 @@ root: intro.md
 parts:
   - caption: Contents
     chapters:
-    - file: introduction.md
+    - file: Introduction/introduction.md
     - file: part1/part1.md
     - file: part2/part2.md
     - file: part3/part3.md
-    - file: part4/part4.md
-    - file: part5/part5.md
+    - file: closing_remarks/closing_remarks.md
     - file: references.md
 

@@ -1,6 +1,6 @@
-# Part 3 - Folder Organisation
+# Part 2 - Folder Organisation
 
-## 3a. Relevance:
+## Relevance:
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
@@ -131,7 +131,7 @@ Watch the video to learn about how to create a basic **hierarchical folder struc
 </div>
 <script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-## 3c. Common Folder Pitfalls:
+## Common Folder Pitfalls:
 
 The following video segment was created by the Ghent University data stewards. Watch the video to review best practices for folder organisation and to learn about three big pitfalls to avoid with folder organisation and naming.
 
@@ -193,7 +193,7 @@ As mentioned before, it’s a good idea to create a root folder and give it the 
 </div>
 <script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-## 3d. Process what you've learned about folder organisation:
+## Check your understanding:
 
 <b>Scenario:</b>
 

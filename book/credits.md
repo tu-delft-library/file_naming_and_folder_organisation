@@ -1,4 +1,3 @@
-(credits)=
 # Credits and License
 
 You can refer to this book as:

@@ -1,6 +1,6 @@
 # Part 1 - Establishing an FNC
 
-## Relevance:
+## Relevance
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
@@ -27,7 +27,7 @@ File naming conventions help you stay organised so you can quickly identify your
 
 In this module we’ll share general recommendations for file naming that apply across academic disciplines. Please note, <b>there’s no single “right” way to name your files</b>. However, also be aware that different fields of study may have their own specific conventions for naming different types of files. For example, biologists may adhere to standardised 4-letter abbreviations for species names.
 
-## Rules of Thumb for File Naming:
+## Rules of Thumb 
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
@@ -158,7 +158,21 @@ Here are standard recommendations to indicate version:
 
 Please note: Storage systems such as One Drive or version control systems like GitHub actually have versioning build in. If you're working in these systems it’s actually NOT advisable to use numbered versions in file names.
 
-## Check your understanding: 
+## Practical applications
+
+<table>
+  <tr>
+    <td class="image-cell">
+      <img src="../figures/2D_README_Alice_in_WL.png" alt="Alice in WL" width="200"/>
+      <p style="font-size: x-small;"><em>"README Alice in Wonderland" adaped from original image by John Tenniel - John Tenniel, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=629633">https://commons.wikimedia.org/w/index.php?curid=629633</a></em></p>
+    </td>
+    <td class="text-cell">
+      <p>Once you've established an FNC it's important to keep track of it by creating a piece of documentation called a “README” file. A README is generally a txt file that gets saved into the same folder as the dataset(s) it describes. The README.txt acts like a short guide to your FNC. It helps explain and document the schema that was used to name those specific files. We plan to develop a separate mini-module about documentation strategies; it will go into more depth with step-by-step instructions about how to create README files. Would you like to learn more about README documentation in the meantime? We suggest you visit this link to <a href="https://datamanagement.hms.harvard.edu/collect-analyze/documentation-metadata/readme-files"> Harvard University’s research data management site</a> which offers README templates and guides.</p>
+    </td>
+  </tr>
+</table>
+
+## Check your understanding
 
 You just learned basic rules of thumb for developing an FNC. Now, take a few minutes to check your understanding. Practice applying basic file naming guidelines to three new scenarios.
 
@@ -181,16 +195,4 @@ You just learned basic rules of thumb for developing an FNC. Now, take a few min
 </div>
 <script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-## Practical applications: how do I keep track of the FNC I've chosen?
 
-<table>
-  <tr>
-    <td class="image-cell">
-      <img src="../figures/2D_README_Alice_in_WL.png" alt="Alice in WL" width="200"/>
-      <p style="font-size: x-small;"><em>"README Alice in Wonderland" adaped from original image by John Tenniel - John Tenniel, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=629633">https://commons.wikimedia.org/w/index.php?curid=629633</a></em></p>
-    </td>
-    <td class="text-cell">
-      <p>To keep track of the FNCs they’ve established, researchers create a piece of documentation called a “README” file. A README is generally a txt file that gets saved into the same folder as the dataset(s) it describes. The README.txt acts like a short guide to your FNC. It helps explain and document the schema that was used to name those specific files. We plan to develop a separate mini-module about documentation strategies; it will go into more depth with step-by-step instructions about how to create README files. Would you like to learn more about README documentation in the meantime? We suggest you visit this link to <a href="https://datamanagement.hms.harvard.edu/collect-analyze/documentation-metadata/readme-files"> Harvard University’s research data management site</a> which offers README templates and guides.</p>
-    </td>
-  </tr>
-</table>

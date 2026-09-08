@@ -1,6 +1,6 @@
-# Part 2 - Establishing File Naming Conventions
+# Part 1 - Establishing File Naming Conventions
 
-## 2a. Relevance:
+## Relevance:
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
@@ -27,7 +27,7 @@ File naming conventions help you stay organised so you can quickly identify your
 
 In this module we’ll share general recommendations for file naming that apply across academic disciplines. Please note, <b>there’s no single “right” way to name your files</b>. However, also be aware that different fields of study may have their own specific conventions for naming different types of files. For example, biologists may adhere to standardised 4-letter abbreviations for species names.
 
-## 2b. Rules of Thumb for File Naming:
+## Rules of Thumb for File Naming:
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
@@ -150,7 +150,7 @@ Practice applying the first two file naming rules of thumb to a research scenari
   </tr>
 </table>
 
-Such a confusion can be remedied by including version information in the file name. This will help you and collaborators to track the evolution of a document more clearly over time.
+Such confusion can be remedied by including version information in the file name. This will help you and collaborators to track the evolution of a document more clearly over time.
 
 Here are standard recommendations to indicate version:
 - For significant changes, use whole numbers: V1, V2
@@ -158,9 +158,9 @@ Here are standard recommendations to indicate version:
 
 Please note: Storage systems such as One Drive or version control systems like GitHub actually have versioning build in. If you're working in these systems it’s actually NOT advisable to use numbered versions in file names.
 
-## 2c. Process the rules of thumb for file naming: 
+## Check your understanding: 
 
-You just learned basic rules of thumb for developing an FNC. Now, take a few minutes to practice applying basic file naming guidelines to three new scenarios.
+You just learned basic rules of thumb for developing an FNC. Now, take a few minutes to check your understanding. Practice applying basic file naming guidelines to three new scenarios.
 
 <b>FNC Scenario #1:</b>
 <div class="responsive-iframe">
@@ -181,7 +181,7 @@ You just learned basic rules of thumb for developing an FNC. Now, take a few min
 </div>
 <script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-## 2d. Practical applications: how do I keep track of the FNC I've chosen?
+## Practical applications: how do I keep track of the FNC I've chosen?
 
 <table>
   <tr>

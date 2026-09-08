@@ -96,7 +96,7 @@ Watch the video to learn about how to create a basic **hierarchical folder struc
 <div class="responsive-iframe-container">
     <iframe src="https://www.youtube.com/embed/sp_ZlV6cYNU?si=nMCNzDH9oZhrw0bP" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 </div>
-<p class="caption">Attribution: TU Delft Library Education Support & TU Delft Research Data & Software (CC-BY)</p>
+<p style="font-size: x-small; width: 70%; margin: 0 auto;"><em>"Hierarchical Folder Structure" by TU Delft Library - Education Support is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
 
 <b>Check your understanding:</b> Answer the True or False questions to check your understanding of the rules of thumb for folder organisation.
 
@@ -155,7 +155,7 @@ The following video segment was created by the Ghent University data stewards. W
 <div class="responsive-iframe-container">
     <iframe src="https://www.youtube.com/embed/jo6yISScLUA?si=L7-Bc0paFaDJCzur" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 </div>
-<p class="caption">Attribution: Ghent University (CC-BY)</p>
+<p style="font-size: x-small;"><em>Adapted from <a href="https://www.youtube.com/watch?v=YslfY4W-NAg" target="_blank">"RDM Knowledge Clips: Keeping Data Organized"</a> by the Ghent University Data Stewards, which is licensed under <a href="http://creativecommons.org/licenses/by/4.0" target="_blank"> CC BY 4.0</a></em></p>
 
 Let’s elaborate on the three pitfalls mentioned in the video and demonstrate with examples.
 

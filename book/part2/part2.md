@@ -1,6 +1,6 @@
 # Part 2 - Folder Organisation
 
-## Relevance:
+## Relevance
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
@@ -65,7 +65,7 @@ Just like with file naming conventions, it’s important to **consider your fold
 
 Will you use code and scripts to analyse research data? Well-organised folders will give you a much more efficient way to summon and work with specific data sets. For example, you may want to use a ```for-loop``` command or a ```glob``` to summon all the data housed in a folder. These commands work best if the data has already been sorted into clearly named folders.
 
-## 3b. Folder Rules of Thumb:
+## Folder Rules of Thumb
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
@@ -131,7 +131,7 @@ Watch the video to learn about how to create a basic **hierarchical folder struc
 </div>
 <script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-## Common Folder Pitfalls:
+## Common Folder Pitfalls
 
 The following video segment was created by the Ghent University data stewards. Watch the video to review best practices for folder organisation and to learn about three big pitfalls to avoid with folder organisation and naming.
 
@@ -193,7 +193,7 @@ As mentioned before, it’s a good idea to create a root folder and give it the 
 </div>
 <script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-## Check your understanding:
+## Check your understanding
 
 <b>Scenario:</b>
 

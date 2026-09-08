@@ -1,4 +1,4 @@
-# Part 3 - Hey... where's my file? Understanding storage structures
+# Part 3 - Storage Structures
 
 ## Relevance
 

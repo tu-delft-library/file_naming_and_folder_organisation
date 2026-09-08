@@ -222,10 +222,10 @@ Nikola Vukovic is a Neuroscientist from the University of California San Francis
   - Within that, he includes one sub-sub-folder for ethics forms and another for approvals.
 
 Nikola offers further insights into his established folder structure on his website. If you are interested in learning more, you can visit: http://nikola.me/folder_structure.html
+<br>
 
-<b>Check your understanding:</b>
-
-Based on the visual outline of Nikola's folder structure, take a quiz about where you would find different types of files.
+**TAKE THE QUIZ!**
+Based on the visual outline of Nikola's folder structure, answer the quiz questions about where you would find his different files: 
 
 <div class="responsive-iframe">
   <iframe src="https://tudelft.h5p.com/content/1292367152750218497/embed" aria-label="Nikola_processing_questions"  allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>

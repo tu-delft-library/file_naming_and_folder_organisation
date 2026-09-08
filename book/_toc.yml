@@ -3,7 +3,7 @@ root: intro.md
 
 parts:
   - caption: Contents
-    chapters:
+    chapters: 
     - file: Introduction/introduction.md
     - file: part1/part1.md
     - file: part2/part2.md

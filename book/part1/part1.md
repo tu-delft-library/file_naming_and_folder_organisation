@@ -73,7 +73,7 @@ For example:
 
 - The date the file was created or the date the data were collected. Generally recommended format for dates is: <b>YYYYMMDD</b>.
 
-<b>Check your understanding:</b>
+## Check your understanding
 Let’s pause to process these first two rules of thumb with two file naming scenarios.
 <div style="height: 2px; background-color: blue;"></div>
 <b>Practice A:</b><br>

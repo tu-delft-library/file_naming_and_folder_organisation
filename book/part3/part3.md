@@ -1,6 +1,6 @@
 # Part 3 - Hey... where's my file? Understanding storage structures
 
-### Relevance
+## Relevance
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
@@ -63,7 +63,7 @@ The subdirectory ```/Users``` is the parent node to ```/Users/imhotep```, ```/Us
 <p style="font-size: x-small;"><em>“The Unix Shell: Navigating Files and Directories” by Software Carpentry is licensed under CC BY 4.0 <a href=https://swcarpentry.github.io/shell-novice/02-filedir.html>https://swcarpentry.github.io/shell-novice/02-filedir.html</a></em></p>
 </center>
 
-## Check your understanding I
+## Check your understanding 
 
 Based on what you learned about directory trees, answer the following multiple-choice questions.
 
@@ -99,7 +99,7 @@ Based on what you learned about directory trees, answer the following multiple-c
 </div>
 <script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-### Local vs. Remote access
+## Local vs. Remote access
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">

@@ -10,4 +10,5 @@ parts:
     - file: part3/part3.md
     - file: closing_remarks/closing_remarks.md
     - file: references.md
+    - file: credits.md
 

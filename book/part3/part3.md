@@ -1,6 +1,6 @@
 # Part 3 - Hey... where's my file? Understanding storage structures
 
-### Relevance:
+### Relevance
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
@@ -20,7 +20,7 @@ In the previous section of this module, we explored how to name your files and o
 
 From a computational perspective, understanding how files are structured within a directory tree enhances your ability to navigate file systems efficiently and ensures organised, accessible, and secure data management. A directory tree is a hierarchical structure representing the organisation of files and directories (also called folders) within a computer's file system, starting from a root directory and branching out into various subdirectories. The file system manages this hierarchy, organising data into files (which hold information) and directories (or folders) that contain files or other directories.
 
-## 4b. Directory Tree (how are the drives on a computer organised):
+## Directory Tree
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
@@ -29,7 +29,7 @@ From a computational perspective, understanding how files are structured within 
   </div>
 </center><br>
 
-Let's break down the concept of a directory tree using a simple analogy: imagine a directory tree as a family tree. Just as a family tree starts with a common ancestor and branches out to show different family members, a directory tree starts with a single "root" and branches out to show various directories and subdirectories, each containing files or additional directories.
+A directory tree has to do with how are the drives on a computer organised. Let's break down the concept of a directory tree using a simple analogy: imagine a directory tree as a family tree. Just as a family tree starts with a common ancestor and branches out to show different family members, a directory tree starts with a single "root" and branches out to show various directories and subdirectories, each containing files or additional directories.
 
 - <b>The Root Node:</b> This is the top-most directory in the hierarchy, and it’s the starting point for all directories and files on your computer. Everything branches off from here. Just like the topmost ancestor (such as a grandparent), it is the starting point for the family tree. On Windows, the root directory is represented as ‘C:\’, and on Unix-based systems like macOS or Linux, it’s represented as ‘/’.
 
@@ -63,9 +63,9 @@ The subdirectory ```/Users``` is the parent node to ```/Users/imhotep```, ```/Us
 <p style="font-size: x-small;"><em>“The Unix Shell: Navigating Files and Directories” by Software Carpentry is licensed under CC BY 4.0 <a href=https://swcarpentry.github.io/shell-novice/02-filedir.html>https://swcarpentry.github.io/shell-novice/02-filedir.html</a></em></p>
 </center>
 
-## 4c. Check your understanding of Directory Trees:
+## Check your understanding I
 
-Based on what you learned about directory trees, answer the following multiple-choice questions to the best of your ability.
+Based on what you learned about directory trees, answer the following multiple-choice questions.
 
 
 <!-- <style>
@@ -99,7 +99,7 @@ Based on what you learned about directory trees, answer the following multiple-c
 </div>
 <script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-### 4d. Local vs. Remote access:
+### Local vs. Remote access
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
@@ -183,9 +183,9 @@ Below is a table comparing local and remote access. Read through the table to le
     </tbody>
 </table>
 
-## 4e. Check your understanding of local vs. remote storage 
+## Check your understanding 
 
-Take the quiz to check your understanding:
+Take the quiz to check your understanding of local vs. remote storage:
 
 <div class="responsive-iframe">
   <iframe src="https://tudelft.h5p.com/content/1292367276805070977/embed" aria-label="DirectoryTreeProcessing"  allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>

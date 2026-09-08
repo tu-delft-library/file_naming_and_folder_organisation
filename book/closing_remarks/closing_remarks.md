@@ -1,6 +1,6 @@
 # Closing Remarks
 
-## Exit quiz:
+## Learning Goals
 
 This module aimed to provide information, examples, and practice opportunities so that you develop the skills to...
 
@@ -13,8 +13,9 @@ This module aimed to provide information, examples, and practice opportunities s
 - Explain the concept of a directory tree.
 
 - Evaluate whether to store a file locally vs. remotely based on factors such as accessibility, security, and collaboration needs.
-
-Please take a brief exit quiz as a final check for understanding on these skills and concepts.
+  
+## Exit quiz 
+Please take this brief exit quiz as a final check for understanding on the skills and concepts covered in this mini-module.
 
 <!-- <style>
 .responsive-iframe {
@@ -47,8 +48,13 @@ Please take a brief exit quiz as a final check for understanding on these skills
 </div>
 <script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-## Thank you:
+## Feedback Survey
 
-Dear student,
+We would so appreciate your input to help make these materials better. Click the blue button below to participate in this brief survey: 
+```{button-link} https://tudelft.fra1.qualtrics.com/jfe/form/SV_cB9OJZg5Zk2Rseq
+:color: primary
+FEEDBACK SURVEY
+```
+:::
 
-Thank you for participating in this pilot mini-module about Files Naming and Folder Organisation. We hope that the information proves useful in your Python course and that what you’ve learned will be relevant to your future studies/research. We need your help to improve this material for future students: please take a brief exit survey to review the module! The survey link will be posted to the Signal & Systems with Python Brightspace course. Thank you in advance for your feedback!
+You can also contact Data Literacy Project leader Paige Folsom with questions or to suggest additional edits and revisions: p.m.folsom@tudelft.nl

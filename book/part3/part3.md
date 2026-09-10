@@ -63,7 +63,7 @@ The subdirectory ```/Users``` is the parent node to ```/Users/imhotep```, ```/Us
 <p style="font-size: x-small;"><em>“The Unix Shell: Navigating Files and Directories” by Software Carpentry is licensed under CC BY 4.0 <a href=https://swcarpentry.github.io/shell-novice/02-filedir.html>https://swcarpentry.github.io/shell-novice/02-filedir.html</a></em></p>
 </center>
 
-## Check your understanding a. 
+## Check your understanding- directory trees 
 
 Based on what you learned about directory trees, answer the following multiple-choice questions.
 
@@ -183,7 +183,7 @@ Below is a table comparing local and remote access. Read through the table to le
     </tbody>
 </table>
 
-## Check your understanding b.
+## Check your understanding- local vs. remote
 
 Take the quiz to check your understanding of local vs. remote storage:
 

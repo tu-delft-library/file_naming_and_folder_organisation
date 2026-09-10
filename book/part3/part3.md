@@ -1,6 +1,6 @@
 # Part 3 - Storage Structures
 
-## Relevance
+## Importance
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
@@ -41,7 +41,7 @@ A directory tree has to do with how are the drives on a computer organised. Let'
 
 You might wonder: <b>What's the difference between a directory tree and folder structure?</b> In summary, a directory tree is used by operating systems (such as Windows) to manage the entire file system organisation. Meanwhile, a folder structure focuses on practical organisation for a specific purpose or project. Both concepts help us manage and navigate our digital content effectively.
 
-<b>Scenario:</b>
+## Scenario
 
 To better understand what a directory tree is, let’s look at how the file system is organised on a scientist Nelle’s computer.
 
@@ -63,7 +63,7 @@ The subdirectory ```/Users``` is the parent node to ```/Users/imhotep```, ```/Us
 <p style="font-size: x-small;"><em>“The Unix Shell: Navigating Files and Directories” by Software Carpentry is licensed under CC BY 4.0 <a href=https://swcarpentry.github.io/shell-novice/02-filedir.html>https://swcarpentry.github.io/shell-novice/02-filedir.html</a></em></p>
 </center>
 
-## Check your understanding 
+## Check your understanding a. 
 
 Based on what you learned about directory trees, answer the following multiple-choice questions.
 
@@ -183,7 +183,7 @@ Below is a table comparing local and remote access. Read through the table to le
     </tbody>
 </table>
 
-## Check your understanding 
+## Check your understanding b.
 
 Take the quiz to check your understanding of local vs. remote storage:
 

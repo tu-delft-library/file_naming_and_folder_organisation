@@ -73,7 +73,7 @@ For example:
 
 - The date the file was created or the date the data were collected. Generally recommended format for dates is: <b>YYYYMMDD</b>.
 
-## Check your understanding
+## Check your understanding- FNC #1-2
 Let’s pause to process these first two rules of thumb with two file naming scenarios.
 <div style="height: 2px; background-color: blue;"></div>
 <b>Practice A:</b><br>
@@ -172,7 +172,7 @@ Please note: Storage systems such as One Drive or version control systems like G
   </tr>
 </table>
 
-## Check your understanding
+## Check your understanding- FNC Rules of Thumb
 
 You just learned basic rules of thumb for developing an FNC. Now, take a few minutes to check your understanding. Practice applying basic file naming guidelines to three new scenarios.
 

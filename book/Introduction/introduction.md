@@ -2,11 +2,11 @@
 
 ## Welcome! 
 
-This mini-module 
+This mini module is an opportunity for self-paced, independent learning in core skills that are essential to well-organised research. During class, your instructors will expand upon the module topics and will show you how to apply the skills to much more complex problems in your field of study.
 
 ### Learning Objectives & Purpose:
 
-This mini module is an opportunity for self-paced, independent learning in several core skills. During class, your instructors will expand upon the module topics and will show you how to apply the skills to much more complex problems in your field of study. The learning in this mini-module will equip you to do the following: 
+The learning in this mini-module will equip you to do the following: 
 
 - Recognise the importance of file and folder organisation and relate it to your studies.
 
@@ -14,17 +14,17 @@ This mini module is an opportunity for self-paced, independent learning in sever
 
 - Structure folders effectively to make elements of a research project findable for collaborators and for your future self.
 
-- Explain the concept of a directory tree. 
+- Understand the concept of a directory tree. 
 
 - Evaluate whether to store a file locally vs. remotely based on factors such as accessibility, security, and collaboration needs.
 
 ## Mini-module Format 
 
-This mini-course is online and self-paced. It’s “mini” because it will take you approximately an hour to an hour and a half to go through the materials. The practice exercises and quizzes in each section are designed to help you check your understanding of key vocabulary and concepts. The mini-module is open access, which means you can bookmark the URL in your browser and refer to the information as much as you like in the future. In addition to the online mini-module, we will also provide this [**Downloadable Checklist**](graphics/Checklist_v3.docx) that includes the guiding questions from the mini-module. At the end of each section we will ask you to revisit the checklist and record key details. 
+This mini-course is online and self-paced. It’s “mini” because it will take you approximately an hour to an hour and a half to go through the materials. The practice exercises and quizzes in each section are designed to help you check your understanding of key vocabulary and concepts. The mini-module is open access, which means you can bookmark the URL in your browser and refer to the information as much as you like in the future. 
 
 ## Appreciations 
 
-This guide was developed by Paige Folsom from the Data Literacy Project, TU Delft Library Education Support in collaboration with Allyson Sim, Research Data & Software, Sophie Tschirpke, data steward at the Faculty of Applied Sciences, and Aurele Adam, coordinator of the MSc Applied Physics. Special thanks to the thesis supervisors of the MSc of Applied Physics for their input on learning goals and competencies. Thank you to Paula Martinez-Lavanchy for valuable input on the learning design as well as the content. Thank you to Reid Sczerba and Freek Pols for support building this Jupyter book, and to TU Delft Library Education Support colleagues for their feedback. 
+This guide was developed by Paige Folsom from the Data Literacy Project, TU Delft Library Education Support in collaboration with Carla Strubbia, Research Data & Software. Special thanks to Lora Armstrong for sharing resources on file naming and folder organisation, and to Paula Martinez-Lavanchy for valuable input on the learning design as well as the content. Thank you to Geet George for piloting the mini-module with students in his 2nd year Python programming course, to the TeachBooks team for supporting the creation of the original book, and to TU Delft Library Education Support colleagues for their feedback. 
 
 ## How to Cite this Resource 
 

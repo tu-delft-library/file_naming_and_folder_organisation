@@ -29,5 +29,40 @@ This guide was developed by Paige Folsom from the Data Literacy Project, TU Delf
 ## How to Cite this Resource 
 
 > `Folsom, P., Strubbia, C.` (`2024`) _`File Naming and Folder Organisation`_. `<https://tu-delft-library.github.io/file_naming_and_folder_organisation>`. Source files at `<https://github.com/tu-delft-library/file_naming_and_folder_organisation>`. CC BY 4.0.
+>
+> ## Pre-quiz
+
+Before you begin the mini-module, please take this short pre-quiz (5 questions). The purpose is to evaluate your background knowledge and see which concepts will be new vs. review for you.
+
+<!-- <style>
+.responsive-iframe {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    /* padding-top: 58.5%;  */
+}
+.responsive-iframe iframe {
+    /* position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; */
+    position: relative;
+    width: 100%;
+    height: auto;
+    border: 0;
+}
+.caption {
+    text-align: center; /* Center the caption text */
+    font-size: 14px; /* Adjust font size as needed */
+    margin-top: 8px; /* Space above the caption */
+    color: #555; /* Optional: adjust caption color */
+}
+</style> -->
+
+<div class="responsive-iframe">
+    <iframe src="https://tudelft.h5p.com/content/1292336851439686927/embed" aria-label="Pre quiz" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+</div>
+<script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
 

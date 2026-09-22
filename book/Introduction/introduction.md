@@ -29,8 +29,9 @@ This guide was developed by Paige Folsom from the Data Literacy Project, TU Delf
 ## How to Cite this Resource 
 
 > `Folsom, P., Strubbia, C.` (`2024`) _`File Naming and Folder Organisation`_. `<https://tu-delft-library.github.io/file_naming_and_folder_organisation>`. Source files at `<https://github.com/tu-delft-library/file_naming_and_folder_organisation>`. CC BY 4.0.
->
-> ## Pre-quiz
+
+
+## Pre-quiz
 
 Before you begin the mini-module, please take this short pre-quiz (5 questions). The purpose is to evaluate your background knowledge and see which concepts will be new vs. review for you.
 

@@ -1,5 +1,7 @@
 # References
 
+Alves T. FAIR data: what it is and how we can support its principles. Sci Ed. 2024;47:110-112. [https://doi.org/10.36591/SE-4703-04](https://doi.org/10.36591/SE-4703-04) 
+
 Devenyi, G., Capes, E., Morris, C., Pitchers, W., Wilson, G., Koch, C., Silva, R., Srinath, A., & Chhatre, V. (2019, July). swcarpentry/shell-novice: Software Carpentry: the UNIX shell, June 2019 (Version v2019.06.1). Zenodo. [http://doi.org/10.5281/zenodo.3266823](http://doi.org/10.5281/zenodo.3266823)
 
 Ghent University Data Stewards. (2021). Knowledge Clip: Keeping research data organized [Video]. YouTube. [https://www.youtube.com/watch?v=YslfY4W-NAg](https://www.youtube.com/watch?v=YslfY4W-NAg). CC-BY-4.0. 

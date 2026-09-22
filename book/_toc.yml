@@ -5,6 +5,7 @@ parts:
   - caption: Contents
     chapters: 
     - file: Introduction/introduction.md
+    - file: relevance/relevance.md
     - file: part1/part1.md
     - file: part2/part2.md
     - file: part3/part3.md

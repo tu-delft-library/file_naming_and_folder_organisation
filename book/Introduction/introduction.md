@@ -24,7 +24,7 @@ This mini-course is online and self-paced. It’s “mini” because it will tak
 
 ## Appreciations 
 
-This guide was developed by Paige Folsom from the Data Literacy Project, TU Delft Library Education Support in collaboration with Carla Strubbia, Research Data & Software. Special thanks to Lora Armstrong for sharing resources on file naming and folder organisation, and to Paula Martinez-Lavanchy for valuable input on the learning design as well as the content. Thank you to Geet George for piloting the mini-module with students in his 2nd year Python programming course, to the TeachBooks team for supporting the creation of the original book, and to TU Delft Library Education Support colleagues for their feedback. 
+This guide was developed by Paige Folsom from the Data Literacy Project, TU Delft Library Education Support in collaboration with Carla Strubbia, Research Data & Software. Special thanks to Lora Armstrong, data steward in the Faculty of Civil Engineering and Geosciences for sharing her expertise and resources on file naming and folder organisation, and to Paula Martinez-Lavanchy for valuable input on the learning design as well as the content. Thank you to Geet George for his feedback and for piloting the mini-module with students in his 2nd year Python programming course, to the TeachBooks team for supporting the creation of the original book, and to TU Delft Library Education Support colleagues for their feedback. 
 
 ## How to Cite this Resource 
 

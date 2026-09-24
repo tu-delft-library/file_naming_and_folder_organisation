@@ -172,6 +172,16 @@ Please note: Storage systems such as One Drive or version control systems like G
   </tr>
 </table>
 
+## File Naming and AI  
+
+Generative AI can be used as a tool for helping to develop a File Naming Convention. Here are some examples of how to use GenAI for file naming:  
+- Describe your project and the type(s) of data that you plan to collect. Ask GenAI to help generate ideas for an FNC.  
+- Describe your planned FNC to GenAI and ask for help adjusting the FNC based on common practices or file naming standards in your discipline.
+ 
+- ! You as a user are the one responsible for all outputs: you must use your own judgement and critical reasoning to check the correctness of any FNC suggested by AI.
+- ! Be cautious about uploading research data to AI as this can compromise data security and lead to data breaches. 
+
+
 ## Check your understanding- FNC Rules of Thumb
 
 You just learned basic rules of thumb for developing an FNC. Now, take a few minutes to check your understanding. Practice applying basic file naming guidelines to three new scenarios.

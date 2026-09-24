@@ -193,6 +193,18 @@ As mentioned before, it’s a good idea to create a root folder and give it the 
 </div>
 <script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
+## Folder Structures and AI
+Generative AI can be used as a tool for helping to develop a plan for folder structures. Here are some examples of how to use GenAI to organise folders:
+
+Describe your project workflow and the type(s) of data that you plan to collect. Ask GenAI to help generate ideas for a folder structure.
+
+Describe your planned folder structure GenAI and ask for help to make it more efficient.
+
+! You as a user are the one responsible for all outputs: you must use your own judgement and critical reasoning to check the correctness of any suggestions by GenAI.
+
+! As mentioned in part 1, be cautious about uploading folders of research data to AI as this can compromise data security and lead to data breaches.
+
+
 ## Check your understanding
 
 <b>Scenario:</b>
